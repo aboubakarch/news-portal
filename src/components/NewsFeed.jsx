@@ -4,8 +4,8 @@ import {
   fetchGuardianAPI,
   fetchNYTAPI,
 } from '../services/newsServices';
-import Search from './search';
-import Filter from './filter';
+import Search from './Search';
+import Filter from './Filter';
 import { Container } from '@mui/material';
 import StyledPagination from './styled/StyledPagination';
 import Articles from './Articles';

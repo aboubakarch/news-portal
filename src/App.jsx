@@ -1,5 +1,5 @@
 import './App.css';
-import NewsFeed from './components/newsFeed';
+import NewsFeed from './components/NewsFeed';
 import PersonalizedFeed from './components/PersonalizedFeed';
 
 function App() {
